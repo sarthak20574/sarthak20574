@@ -2,7 +2,7 @@
 #### I love programming and solving problems, all day long🥰
 ![I love programming and solving problems, all day long🥰](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
- I am a 2nd year student stu[dying]☠ Computer Science with specialization in Artificial Intelligence at IIIT Delhi.
+ I am a 2nd year student stu[dying]☠Computer Science with specialization in Artificial Intelligence at IIIT Delhi.
 
 Skills: JAVA / PYTHON / C++ / C / PROLOG
 
