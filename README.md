@@ -2,7 +2,7 @@
 #### I love programming and solving problems, all day long🥰
 ![I love programming and solving problems, all day long🥰](https://github.com/sarthak20574/sarthak20574/blob/main/cuteness%20overload.jpg)
 
- I am a 2nd year student stu[dying]☠Computer Science with specialization in Artificial Intelligence at IIIT Delhi.
+ I am a 2nd year student stu[dying] Computer Science with specialization in Artificial Intelligence at IIIT Delhi.
 
 Skills: 
 * ☕JAVA 
