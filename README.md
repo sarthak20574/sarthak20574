@@ -10,7 +10,7 @@ Skills:
 * 👨‍💻C++/C
 * 🦉PROLOG
 
-- 🔭 I’m currently working on improving my programming skill💻 
+- 🔭 I’m currently working on my programming skills💻 
 - 🌱 I’m currently learning Dynamic Programming 
 
 
