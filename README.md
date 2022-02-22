@@ -8,7 +8,6 @@ Skills: JAVA / PYTHON / C++ / C / PROLOG
 
 - 🔭 I’m currently working on improving my programming skill💻 
 - 🌱 I’m currently learning Dynamic Programming 
-- 😄 Pronouns: He/Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarthak20574)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthak-dixit-061a19221/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sarthakugly/)  
