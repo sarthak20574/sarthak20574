@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sarthak Dixit,
 #### I love programming and solving problems, all day long🥰
-![I love programming and solving problems, all day long🥰](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I love programming and solving problems, all day long🥰](https://github.com/sarthak20574/sarthak20574/blob/main/Screenshot%20(1486).png)
 
  I am a 2nd year student stu[dying]☠Computer Science with specialization in Artificial Intelligence at IIIT Delhi.
 
